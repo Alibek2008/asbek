@@ -1,0 +1,321 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.container{
+  width: 1290px;
+  margin: 0 auto;
+}
+.Pay {
+  margin-top: 121px;
+}
+.Pay h2 {
+  font-size: 38px;
+  width: 566px;
+  margin-left: 645px;
+  margin-top: -300px;
+  color: #1786f9;
+}
+.Pay p {
+  width: 555px;
+  margin-left: 645px;
+  margin-top: 20px;
+  line-height: 151%;
+  font-size: 18px;
+}
+.App {
+  border: 1px solid;
+  width: 197px;
+  height: 63px;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+.App p {
+  font-size: 13px;
+  margin-left: 15px;
+  margin-top: -30px;
+}
+.App h3 {
+  font-size: 22px;
+  margin-left: -100px;
+  margin-top: 20px;
+}
+.Get {
+  margin-left: 645px;
+  margin-top: 24px;
+  display: flex;
+  gap: 18px;
+}
+.Apps {
+  border: 1px solid;
+  width: 197px;
+  height: 63px;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+}
+.Apps i {
+  color: rgb(21, 241, 131);
+}
+.Apps p {
+  font-size: 13px;
+  margin-left: 15px;
+  margin-top: -30px;
+}
+.Apps h3 {
+  font-size: 22px;
+  margin-left: -50px;
+  margin-top: 15px;
+}
+.Easy img {
+  margin-top: 512px;
+  border-radius: 20px;
+}
+.Easy h2 {
+  font-size: 30px;
+  color: #1786f9;
+  margin-top: 13px;
+}
+.Bank {
+  display: flex;
+  /* margin-top: 28px; */
+}
+.Bank p {
+  padding-top: 4px;
+  margin-left: 13px;
+  font-size: 18px;
+}
+.Kattasi {
+  margin-top: 40px;
+  display: flex;
+  gap: 96px;
+}
+.Banks {
+  display: flex;
+  margin-left: 85px;
+}
+.Banks p {
+  padding-top: 4px;
+  margin-left: 13px;
+  font-size: 18px;
+}
+.Learn {
+  border: 1px solid #f8d617;
+  width: 296px;
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 46px;
+  background-color: #f8d617;
+  border-radius: 7px;
+}
+.Learn a {
+  text-decoration: none;
+  color: black;
+}
+.Eassy img {
+  border-radius: 20px;
+}
+.Eassy h2 {
+  font-size: 30px;
+  color: #1786f9;
+  margin-top: 13px;
+}
+.Eassy p {
+  width: 457px;
+  margin-top: 20px;
+  line-height: 175%;
+}
+.Rent {
+  margin-left: 760px;
+  margin-top: -600px;
+}
+.Learning {
+  border: 1px solid #f8d617;
+  width: 296px;
+  height: 54px;
+  margin-top: 66px;
+  background-color: #f8d617;
+  border-radius: 7px;
+}
+.Learning a {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  text-decoration: none;
+  color: black;
+}
+.Way {
+  margin-left: -760px;
+  margin-top: 80px;
+}
+.Boost {
+  margin-top: -560px;
+}
+.Learniing {
+  border: 1px solid #f8d617;
+  width: 296px;
+  height: 54px;
+  margin-top: 30px;
+  background-color: #f8d617;
+  border-radius: 7px;
+}
+.Learniing a {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  text-decoration: none;
+  color: black;
+}
+.main-2 {
+  margin-top: 600px;
+}
+.Youtube {
+  border: 1px solid #cedfff;
+  width: 594px;
+  height: 328px;
+  display: flex;
+  justify-content: center;
+  background-color: #cedfff;
+  border-radius: 18px;
+}
+.Youtube img {
+  margin-top: -40px;
+}
+.Play {
+  margin-left: 250px;
+  margin-top: -230px;
+}
+.Apply {
+  margin-top: 175px;
+  width: 344px;
+  line-height: 30px;
+}
+.an {
+  display: flex;
+  margin-top: 30px;
+  gap: 14px;
+}
+.an i {
+  color: #1786f9;
+}
+.Leorning {
+  border: 1px solid #f8d617;
+  width: 246px;
+  height: 54px;
+  margin-top: 30px;
+  background-color: #f8d617;
+  border-radius: 7px;
+}
+.Leorning a {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  /* text-decoration: none; */
+  color: black;
+}
+.Hover {
+  margin-left: 717px;
+  margin-top: -650px;
+}
+.Youtuber {
+    border: 1px solid #FFEDED;
+    width: 594px;
+    height: 328px;
+    display: flex;
+    justify-content: center;
+    background-color: #FFEDED;
+    border-radius: 18px;
+  }
+  .Youtuber img {
+    margin-top: -40px;
+  }
+
+  .Leornings {
+    border: 1px solid #f8d617;
+    width: 296px;
+    height: 56px;
+    margin-top: 20px;
+    background-color: #f8d617;
+    border-radius: 7px;
+  }
+  .Leornings a {
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    margin-top: 15px;
+    /* text-decoration: none; */
+    color: black;
+  }
+  .What{
+    text-align: center;
+    margin-top: 547px;
+  }
+  .What h2{
+    font-size: 40px; 
+  }
+  .What p{
+    margin-top: 22px;
+  }
+  .Pen{
+    margin-left: 109px;
+    margin-top: 65px;
+  }
+  .Pen h3{
+    margin-top: 29px;
+    width: 190px;
+    line-height: 134%;
+  }
+  .Pen  h3 span{
+    color: white;
+  }
+  .Pen img{
+    margin-left: 50px;
+  }
+  .obshiy{
+      display: flex;
+  }
+  .Pens{
+    margin-left: 109px;
+    margin-top: 65px;
+  }
+  .Pens h3{
+    margin-top: 29px;
+    width: 214px;
+    line-height: 134%;
+  }
+  .Pens  h3 span{
+    color: white;
+  }
+  .Pens img{
+    margin-left: 40px;
+  }
+  
+  .Peen{
+    margin-left: 109px;
+    margin-top: 65px;
+  }
+  .Peen h3{
+    margin-top: 29px;
+    width: 178px;
+    line-height: 134%;
+  }
+  .Peen  h3 span{
+    color: white;
+  }
+  .Peen img{
+    margin-left: 20px;
+  }
+  
